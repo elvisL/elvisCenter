@@ -1,6 +1,7 @@
 package com.huotu.agento2o.agent;
 
 import com.huotu.agento2o.agent.config.MVCConfig;
+import com.huotu.agento2o.agent.config.SecurityConfig;
 import com.huotu.agento2o.service.config.ServiceConfig;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
