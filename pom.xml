@@ -16,7 +16,7 @@
 
     <properties>
         <lib.version>1.8</lib.version>
-        <spring.version>4.2.3.RELEASE</spring.version>
+        <spring.version>4.3.21.RELEASE</spring.version>
         <spring.security.version>4.0.3.RELEASE</spring.security.version>
         <seleniumhq.varsion>2.48.2</seleniumhq.varsion>
     </properties>
